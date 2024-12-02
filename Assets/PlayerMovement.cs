@@ -15,6 +15,16 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        if(Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+        {
+            // Temporarily increase the speed
+            speed = 10f; // Adjust the boosted speed value as needed
+        }
+        else
+        {
+            // Reset to the default speed
+            speed = 5f; // Default speed value
+        }
         transform.Translate(movement * speed * Time.deltaTime);
     }
 }
