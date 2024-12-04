@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    public float speed = 1f;
+    public float speed = 0.5f;
     private Vector2 direction;
     private float changeDirectionTime = 1f;
     private float timer;
