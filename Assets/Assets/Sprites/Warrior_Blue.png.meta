@@ -515,13 +515,13 @@ TextureImporter:
       name: Warrior_Blue_9
       rect:
         serializedVersion: 2
-        x: 629
-        y: 1207
-        width: 64
-        height: 95
+        x: 631
+        y: 1211
+        width: 99
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 23, y: 0, z: 37, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -534,38 +534,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Blue_10
-      rect:
-        serializedVersion: 2
-        x: 694
-        y: 1232
-        width: 32
-        height: 57
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fef8b56a0e6067e90800000000000000
-      internalID: -7028422606531620881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Warrior_Blue_11
       rect:
         serializedVersion: 2
         x: 824
-        y: 1207
-        width: 61
-        height: 96
+        y: 1213
+        width: 93
+        height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 22, y: 0, z: 31, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -573,28 +551,6 @@ TextureImporter:
       bones: []
       spriteID: e73bf3fc4d8f8a880800000000000000
       internalID: -8599349895570148482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Blue_12
-      rect:
-        serializedVersion: 2
-        x: 883
-        y: 1227
-        width: 32
-        height: 57
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 795034e0ceab3d340800000000000000
-      internalID: 4887455543641441687
       vertices: []
       indices: 
       edges: []
