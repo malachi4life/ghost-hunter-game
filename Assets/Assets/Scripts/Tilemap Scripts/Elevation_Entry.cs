@@ -2,5 +2,5 @@ using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    public
+    public Collider2D MountainCollider;
 }
